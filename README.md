@@ -1,9 +1,8 @@
 General Ledger Analysis (Excel)
 
-
 Project Overview
 
-This project is a full end-to-end General Ledger analysis built entirely in Microsoft Excel. The dataset represents 30 months of financial transactions (January 2023 – June 2025) for a fictional company, NovaTrade Nigeria Ltd, operating across multiple departments, cost centers, and currencies.
+This project is a full end-to-end General Ledger analysis built entirely in Microsoft Excel. The dataset represents 30 months of financial transactions (January 2023 – June 2025) for a fictional company operating across multiple departments, cost centers, and currencies.
 
 The goal was to clean raw transactional data, build a multi-currency conversion model, and deliver two interactive dashboards — one focused on financial performance and one on operational activity — complete with insights and recommendations that a business could act on.
 
